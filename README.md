@@ -3,4 +3,4 @@ Mission Statement: Is to design and simulate a secure, reliable network that sup
 
 The network will allow access to simulation labs, instructional systems, and simulated clinical data while applying healthcare aligned security.
 
-Toolkit: Simulation and Learning Technologies: Simulated EHR systems, student and instructor workstation support, nursing lab and simulation resources,
+TechnicaToolkit: Simulation and Learning Technologies: Simulated EHR systems, student and instructor workstation support, nursing lab and simulation resources, 
