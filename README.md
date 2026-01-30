@@ -5,9 +5,13 @@ The network will allow access to simulation labs, instructional systems, and sim
 
 Toolkit: Simulation and Learning Technologies: Simulated EHR systems, student and instructor workstation support, nursing lab and simulation resources.
 
-Tools: GitHub, Windows Dell Computer
+Operating Systems: Windows, Dell Computer
 
-Security: Cisco 
+Security Tooling: Cisco, and Perimeter Security Orchestration 
+
+Languages: Markdown
+
+Framework: GitHub and Git
 
 Documentation: Writing ReadMe files, creating branches, and screenshots 
 
